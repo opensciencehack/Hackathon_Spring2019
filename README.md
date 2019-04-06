@@ -17,7 +17,7 @@ Please add your team name, the GitHub repository, and the branch of science you 
 
 Team | Repo | Branch of Science
 ---- | ---- | -----------------
-ExampleTeam | https://github.com/opensciencehack/Hackathon_Spring2019 | None
+ExampleTeam | [opensciencehack/Hackathon_Spring2019](https://github.com/opensciencehack/Hackathon_Spring2019) | None
 
 ## Winners
 
