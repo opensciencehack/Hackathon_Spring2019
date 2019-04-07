@@ -18,6 +18,7 @@ Please add your team name, the GitHub repository, and the branch of science you 
 | ----------- | ----------------------------------------------------------------------------------------------- | ----------------- |
 | ExampleTeam | [opensciencehack/Hackathon_Spring2019](https://github.com/opensciencehack/Hackathon_Spring2019) | None              |
 | sudo-su     | [opensciencehack/open-science-hack](https://github.com/aperkaz/open-science-hack)               | Social            |
+| Unsocial Potatoes | [opensciencehack/potatoes](https://github.com/opensciencehack/potatoes)                   | Social |
 
 ## Winners
 
