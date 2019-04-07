@@ -20,6 +20,7 @@ Please add your team name, the GitHub repository, and the branch of science you 
 | DROP TABLE USER     | [opensciencehack/open-science-hack](https://github.com/Shimiri/OpenScienceHack)         | Social            |
 | Unsocial Potatoes | [opensciencehack/potatoes](https://github.com/opensciencehack/potatoes)                   | Social |
 | A-Team      | [pavlo-liapota/opensciencehack](https://github.com/pavlo-liapota/opensciencehack)               | Natural           |
+| Dancing Scorpions | Zip in repo | Social |
 
 ## Winners
 
