@@ -19,6 +19,7 @@ Please add your team name, the GitHub repository, and the branch of science you 
 | ExampleTeam | [opensciencehack/Hackathon_Spring2019](https://github.com/opensciencehack/Hackathon_Spring2019) | None              |
 | sudo-su     | [opensciencehack/open-science-hack](https://github.com/aperkaz/open-science-hack)               | Social            |
 | DROP TABLE USER     | [opensciencehack/open-science-hack](https://github.com/Shimiri/OpenScienceHack)         | Social            |
+| A-Team      | [pavlo-liapota/opensciencehack](https://github.com/pavlo-liapota/opensciencehack)               | Natural           |
 
 ## Winners
 
