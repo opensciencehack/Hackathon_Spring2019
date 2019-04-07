@@ -32,4 +32,4 @@ Category | Team
 -------- | ----
 Best technical execution | DROP TABLE USER
 Best idea | A-Team
-Instagram Challenge | 
+Instagram Challenge | [By georgegevorkian](https://www.instagram.com/p/Bv7-_nZlEWy/)
