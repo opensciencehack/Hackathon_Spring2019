@@ -21,6 +21,7 @@ Please add your team name, the GitHub repository, and the branch of science you 
 | Unsocial Potatoes | [opensciencehack/potatoes](https://github.com/opensciencehack/potatoes)                   | Social |
 | A-Team      | [pavlo-liapota/opensciencehack](https://github.com/pavlo-liapota/opensciencehack)               | Natural           |
 | Dancing Scorpions | Zip in repo | Social |
+| Furious Farfalla | [alexbeattie42/open-science-hack](https://github.com/alexbeattie42/open-science-hack) | Social |
 
 ## Winners
 
