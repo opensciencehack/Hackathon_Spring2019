@@ -23,10 +23,12 @@ Please add your team name, the GitHub repository, and the branch of science you 
 | A-Team      | [pavlo-liapota/opensciencehack](https://github.com/pavlo-liapota/opensciencehack)               | Natural           |
 | Dancing Scorpions | [opensciencehack/Repo-for-Team-Dancing-Scorpions](https://github.com/opensciencehack/Repo-for-Team-Dancing-Scorpions) | Social |
 | Furious Farfalla | [alexbeattie42/open-science-hack](https://github.com/alexbeattie42/open-science-hack) | Social |
+| Hackfix| [Cedsson/Hackfix](https://github.com/Cedsson/Hackfix) | Formal |
 
 
 ## Winners
 
-### Best technical execution
-
-### Best idea
+Category | Team
+-------- | ----
+Best technical execution | ??
+Best idea | ??
