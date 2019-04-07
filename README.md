@@ -8,7 +8,8 @@ TBA
 
 Feel free to add your teamname and the GitHub handles here...
 
-**Organizers:** - [morganericsson](https://github.com/morganericsson)
+**Organizers:** 
+- [morganericsson](https://github.com/morganericsson)
 
 ## Projects
 
