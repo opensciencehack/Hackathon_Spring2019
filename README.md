@@ -17,8 +17,8 @@ Please add your team name, the GitHub repository, and the branch of science you 
 
 | Team        | Repo                                                                                            | Branch of Science |
 | ----------- | ----------------------------------------------------------------------------------------------- | ----------------- |
-| sudo-su     | [opensciencehack/open-science-hack](https://github.com/aperkaz/open-science-hack)               | Social            |
-| DROP TABLE USER     | [opensciencehack/open-science-hack](https://github.com/Shimiri/OpenScienceHack)         | Social            |
+| sudo-su     | [aperkaz/open-science-hack](https://github.com/aperkaz/open-science-hack)               | Social            |
+| DROP TABLE USER     | [Shimiri/OpenScienceHack](https://github.com/Shimiri/OpenScienceHack)         | Social            |
 | Unsocial Potatoes | [opensciencehack/potatoes](https://github.com/opensciencehack/potatoes)                   | Social |
 | A-Team      | [pavlo-liapota/opensciencehack](https://github.com/pavlo-liapota/opensciencehack)               | Natural           |
 | Dancing Scorpions | [opensciencehack/Repo-for-Team-Dancing-Scorpions](https://github.com/opensciencehack/Repo-for-Team-Dancing-Scorpions) | Social |
