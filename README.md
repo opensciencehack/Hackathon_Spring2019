@@ -30,5 +30,6 @@ Please add your team name, the GitHub repository, and the branch of science you 
 
 Category | Team
 -------- | ----
-Best technical execution | ??
-Best idea | ??
+Best technical execution | DROP TABLE USER
+Best idea | A-Team
+Instagram Challenge | 
