@@ -2,14 +2,13 @@
 
 ## Data sets
 
-TBA
-
-## Teams
-
-Feel free to add your teamname and the GitHub handles here...
-
-**Organizers:** 
-- [morganericsson](https://github.com/morganericsson)
+- **Formal Science**
+  - Annotated images of [Common Objects in Context](cocodataset.org).
+- **Natural science**
+  - Events from the ALTO prototype Very-High-Energy [gamma-ray observatory](https://alto-gamma-ray-observatory.org)
+- **Social science**
+  - Swedish tweets about diabetes
+  - Reddit data from the 2016 US Election
 
 ## Projects
 
@@ -25,7 +24,6 @@ Please add your team name, the GitHub repository, and the branch of science you 
 | Furious Farfalla | [alexbeattie42/open-science-hack](https://github.com/alexbeattie42/open-science-hack) | Social |
 | Hackfix| [Cedsson/Hackfix](https://github.com/Cedsson/Hackfix) | Formal |
 | TimSort | [AeroStun/TimSort](https://github.com/AeroStun/TimSort) | Formal |
-
 
 ## Winners
 
